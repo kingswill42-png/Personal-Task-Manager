@@ -19,6 +19,5 @@ MySQL
 - Delete Task - Allows the user to remove tasks that are no longer needed.
 - Update Status - Allows the user to change a task's status, such as Pending or Completed, to track their progress.
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c0520d8c-141b-424a-b6ac-f185bcc68293" />
-
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/be2513d5-6017-418a-b370-4d8df6c77545" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/717a363c-38ca-4d60-b56a-8a076a84d03e" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ddbeb125-36e2-4ef8-b6da-a80e2852a83a" />
